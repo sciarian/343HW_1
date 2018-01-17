@@ -50,7 +50,6 @@ git branch -d branch_name : deletes branch branch_name.
 
 git push : moves everything form your remote repository to the local repository.
 
-![Alt text](C:\Users\Owner\Desktop\Desktop.PNG)
                           
                             
 
