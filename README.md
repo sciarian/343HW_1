@@ -53,7 +53,7 @@ git push : moves everything form your remote repository to the local repository.
                           
                             
 
-                                              
+![Alt text](http://full/path/to/img.jpg "Optional title")                                      
                                         
 
 
